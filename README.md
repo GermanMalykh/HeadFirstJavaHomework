@@ -1,1 +1,1 @@
-# HeadFirstJavaHomework
+<h1>Репозиторий для заданий по книге "Изучаем Java", Бэйтс Берт, Сьерра Кэти ("Head First Java")</h1>
