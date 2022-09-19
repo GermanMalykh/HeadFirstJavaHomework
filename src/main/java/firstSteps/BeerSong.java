@@ -6,7 +6,6 @@ public class BeerSong {
         String word = "бутылок (бутылки)";
 
         while (beerNum > 0) {
-
             if (beerNum == 1) {
                 word = "бутылка";
             }
